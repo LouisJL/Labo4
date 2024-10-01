@@ -1,0 +1,50 @@
+.background{
+    background-image: url(../image/cinema.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+ol{
+    list-style-type: upper-alpha;
+}
+
+
+.titrePage{
+    color: white;
+    padding-left: 20px;
+}
+
+
+.réalisateurs{
+    color: yellowgreen;
+    list-style :none;
+    font-size: 25px;
+    padding-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.nomFilm{
+    list-style-type: upper-latin;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 60px;
+
+}
+
+.nomActeur{
+    list-style-type: disc;
+    color: white;
+
+}
+
+body{
+    font-family: "Arial", "Verdana", Tahoma;
+}
+
+li{
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
